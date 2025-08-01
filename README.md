@@ -30,6 +30,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuizGustavoGallo/LuizGustavoGallo/output/snake.svg" alt="Snake animation" />
 
 ###
