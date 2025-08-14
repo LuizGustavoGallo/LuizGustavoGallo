@@ -25,11 +25,11 @@
 
 ###
 
-<h3 align="center">🤖Tecnologias que uso:</h3>
+<h3 align="left">🤖Tecnologias que uso:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
